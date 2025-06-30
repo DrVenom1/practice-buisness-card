@@ -1,0 +1,37 @@
+body{
+    margin: 20px;
+    font-family: Georgia, serif;
+}
+
+.avator{
+    width: 150px;
+}
+
+.card{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    background: #FFA940ff;
+    text-align: center;
+    margin: 0 auto;
+    border-bottom: 10px solid #7C7668ff ;
+    padding: 20px;
+    color: #010101ff;
+    text-shadow: 2px 1px #5CC1D5ff ;
+}
+.border-blue{
+    border: 1px dotted blue ;
+}
+.text-information{
+    padding: 60px 0;
+    font-size: 20px;
+}
+h1:hover,p:hover,h2:hover {
+  background-color: rgb(26, 240, 37);
+  font-size: 38Spx;
+  font-family: Georgia, serif
+}
+
+/*
+#010101ff
+*/
